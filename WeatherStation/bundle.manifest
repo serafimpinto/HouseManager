@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: WeatherStation
+Export-Package: weatherstation.service
+Bundle-Name: WeatherStation
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .
+Bundle-ManifestVersion: 2
+Bundle-Activator: weatherstation.impl.Activator
+Import-Package: org.osgi.framework, environment
+

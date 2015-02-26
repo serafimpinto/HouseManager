@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: Actuador
+Bundle-Name: Actuador
+Bundle-Version: 1.0.0
+Bundle-ManifestVersion: 2
+Import-Package: org.osgi.framework, environment
+Export-Package: actuador.service
+Bundle-Activator: actuador.impl.Activator
+

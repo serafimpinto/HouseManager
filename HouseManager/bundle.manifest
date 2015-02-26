@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: HouseManager
+Bundle-Version: 1.0.0
+Bundle-Name: HouseManager
+Bundle-ClassPath: ., env.jar
+Bundle-ManifestVersion: 2
+Bundle-Activator: impl.Activator
+Import-Package: org.osgi.framework, javax.swing.event, javax.swing.bor
+ der, javax.swing, actuador.service, luminosidade.service, temphum.ser
+ vice, weatherstation.service, sensoralarm.service, leituras.service
+Export-Package: environment
+

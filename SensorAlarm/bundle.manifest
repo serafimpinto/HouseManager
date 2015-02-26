@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: SensorAlarm
+Bundle-Name: SensorAlarm
+Bundle-Version: 1.0.0
+Bundle-ManifestVersion: 2
+Import-Package: org.osgi.framework, environment
+Export-Package: sensoralarm.service
+Bundle-Activator: sensoralarm.impl.Activator
+

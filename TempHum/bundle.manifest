@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: TempHum
+Export-Package: temphum.service
+Bundle-Name: TempHum
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .
+Bundle-ManifestVersion: 2
+Bundle-Activator: temphum.impl.Activator
+Import-Package: org.osgi.framework, environment
+
