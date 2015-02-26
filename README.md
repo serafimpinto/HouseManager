@@ -1,5 +1,5 @@
 # HouseManager
-Project of the course on Intelligent Agents @SI-MEI-UMINHO 2014
+Project of the course on Intelligent Agents - MEI - UMINHO 2014
 
 Project developed in Java using the OSGi framework with several services.
 
